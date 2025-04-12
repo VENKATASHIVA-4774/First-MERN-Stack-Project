@@ -1,0 +1,29 @@
+{
+  "name": "first-mern-stack-project",
+  "version": "1.0.0",
+  "description": "My first project using MERN Stack",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon backend/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VENKATASHIVA-4774/First-MERN-Stack-Project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/VENKATASHIVA-4774/First-MERN-Stack-Project/issues"
+  },
+  "homepage": "https://github.com/VENKATASHIVA-4774/First-MERN-Stack-Project#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mongoose": "^8.13.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
